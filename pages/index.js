@@ -11,10 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <"And it's a front page of this simple app, hence complex app for me">
+        <Header title="Welcome at Chlodna Street!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Nothing here yet <code>work in progress...</code>
         </p>
       </main>
 
